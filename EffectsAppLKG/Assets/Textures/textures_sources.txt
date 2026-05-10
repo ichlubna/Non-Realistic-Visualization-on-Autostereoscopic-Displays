@@ -1,0 +1,11 @@
+Resources for the textures in this folder:
+- CharacterOutline.png: created in Figma (https://www.figma.com/)
+- CharactersFiveCroppedBig.png: created in Figma (https://www.figma.com/)
+- grunge_gray_12.jpg: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- NightVisionNoise.png: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- NightVisionScanLines.png: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- NightVisionVignette.png: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- OldFilmDust.png: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- OldFilmScratches.png: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- OldFilmVignette.png: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- nahled.png: created in Figma (https://www.figma.com/)

@@ -1,0 +1,8 @@
+Resources for shaders done in Shader Graph:
+- DepthVisualization.shadergraph: Unity Shader Graph Manual
+- Dithering.shadergraph: video Retro Dither Effect In 2 Minutes | Unity URP Tutorial, GameDevDojo on YouTube, (https://youtu.be/k9g2LaBrirI?si=pHASmgCaWRZ3FXsr)
+- DotShading.shadergraph: Unity Manual and Forum + help from Google Gemini
+- Grunge.shadergraph: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- NightVision.shadergraph: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- OldMovie.shadergraph: Unity 6 Shaders and Effects Cookbook by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
+- StripeShading.shadergraph: Unity Manual and Forum + help from Google Gemini

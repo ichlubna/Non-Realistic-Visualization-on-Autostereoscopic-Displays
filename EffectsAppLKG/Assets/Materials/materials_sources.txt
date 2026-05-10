@@ -1,0 +1,2 @@
+Resources for the textured materials (flowers, stones etc.):
+- FREE Stylized PBR Textures Pack, author is Lumo-Art 3D: https://assetstore.unity.com/packages/2d/textures-materials/free-stylized-pbr-textures-pack-111778
