@@ -10,7 +10,7 @@ Looking Glass Go display is created in the Unity Engine containing the implement
 two scenes and user interface. The effects include edge detection, different types of dithering and shading
 methods, thresholding, distortion, and effects mimicking, for example, old movies, or night vision.
 
-The thesis was presented at the Excel@FIT 2026 conference and received an award. Details can be found at the conference website: https://excel.fit.vutbr.cz/.
+The thesis was presented at the Excel@FIT 2026 conference and received an award. Details can be found at the conference website: https://excel.fit.vutbr.cz/ and presented poster, abstract and video are placed in the folder named *Excel@FIT*.
 
 ## How to set up the project
 
@@ -18,13 +18,13 @@ The thesis was presented at the Excel@FIT 2026 conference and received an award.
 
 - Or download one of the available releases. 
 
-The app requires a Looking Glass display and is created for the Looking Glass Go display specifically (avaible at: https://lookingglassfactory.com/products-collection/looking-glass-go). To use this display with your computer first install *Looking Glass Bridge*, information about the installation and use is avaible at the official Looking Glass website: https://lfdocs.lookingglassfactory.com/software/looking-glass-bridge. 
+The app requires a Looking Glass display and is created for the Looking Glass Go display specifically (available at: https://lookingglassfactory.com/products-collection/looking-glass-go). To use this display with your computer, first install *Looking Glass Bridge*, information about the installation and use is available at the official Looking Glass website: https://lfdocs.lookingglassfactory.com/software/looking-glass-bridge. 
 
-After succesful installation plug the display into your computer, turn the display on and switch to *desktop mode* (see: https://lfdocs.lookingglassfactory.com/getting-started/looking-glass-go/get-started-with-looking-glass-go). After this step, the display is ready to be used and you can open the built app. 
+After successful installation plug the display into your computer, turn the display on and switch to *desktop mode* (see: https://lfdocs.lookingglassfactory.com/getting-started/looking-glass-go/get-started-with-looking-glass-go). After this step, the display is ready to be used and you can open the built app. 
 
 ## How to use the app
 
-The app contains two scenes (one static and one with the option of movement) and the implementation of 22 effects (shaders) that can be turned on. You can also control the intensity of each effect. When first opened, you will see the first scene with no effected turned on. The app is controlled via keys on a keyboard, see table (**Table 1**) bellow for more information. The final app is shown bellow (**Image 1**).
+The app contains two scenes (one static and one with the option of movement) and the implementation of 22 effects (shaders) that can be turned on. You can also control the intensity of each effect. When first opened, you will see the first scene with no effect turned on. The app is controlled via keys on a keyboard, see table (**Table 1**) below for more information. The final app is shown below (**Image 1**).
 
 | Key | Action |
 | :--- | :--- |
@@ -48,11 +48,11 @@ The app contains two scenes (one static and one with the option of movement) and
 
 ## Contents of the project
 
-The **Assets** folder contains most of the important parts of the project -- *Shaders*, *Scripts*, *Materials*, *Textures*. The resources are always mentioned the code itself, or in a text file ending with "*_sources.txt*".
+The **Assets** folder contains most of the important parts of the project - *Shaders*, *Scripts*, *Materials*, *Textures*. The resources are always mentioned the code itself, or in a text file ending with "*_sources.txt*".
 
 **Shaders folder** contains implementation of 24 shaders and their materials, either done in HLSL, or Shader Graph. 22 of these effects can be turned on in the app.
 
-- *The 24 shaders are*: Ascii, ColorShading, DepthVisualization, Distortion, Dithering, DotShading, Grunge, InvertColors, MatrixDith, NightVision, OldMovie, OutlineFull, OutlineOnly, PinkShades, Pixelated, RandomDither, RevealNormals, StripeShading, Swirl, SwirlBlackAndWhite, Tresholding, Voronoi, Wobble, Wobble2
+- *The 24 shaders are*: Ascii, ColorShading, DepthVisualization, Distortion, Dithering, DotShading, Grunge, InvertColors, MatrixDith, NightVision, OldMovie, OutlineFull, OutlineOnly, PinkShades, Pixelated, RandomDither, RevealNormals, StripeShading, Swirl, SwirlBlackAndWhite, Thresholding, Voronoi, Wobble, Wobble2
 
 
 **Scripts folder** contains all the scripts used for controlling the app and the effects. The scripts are: 
