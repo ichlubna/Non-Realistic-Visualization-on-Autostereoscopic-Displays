@@ -1,7 +1,7 @@
 //File: IntensitySlider.cs
 //Author: Aneta Chalivopulosova (xchali00)
 //Description: script used to change the intensity of the effect by adding or subtracting 5%
-//Resources: official Unity Manual and Forum 
+//Resources: official Unity Manual and Forum (https://docs.unity3d.com/6000.0/Documentation/Manual/index.html)
 
 using UnityEngine;
 using UnityEngine.Rendering.Universal;

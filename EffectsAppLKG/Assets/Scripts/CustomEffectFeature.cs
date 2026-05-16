@@ -1,7 +1,7 @@
 //File: CustomEffectFeature.cs
 //Author: Aneta Chalivopulosova (xchali00)
 //Description: Scriptable Renderer Feature used to inject post-processing effects into the pipeline
-//Resources: official Unity Manual and Forum and the book Unity 6 Shaders and Effects Cookbook
+//Resources: official Unity Manual and Forum (https://docs.unity3d.com/6000.0/Documentation/Manual/index.html) and the book Unity 6 Shaders and Effects Cookbook
 //           by John P. Doran (https://github.com/PacktPublishing/Unity-6-Shaders-and-Effects-Cookbook)
 
 using UnityEngine;

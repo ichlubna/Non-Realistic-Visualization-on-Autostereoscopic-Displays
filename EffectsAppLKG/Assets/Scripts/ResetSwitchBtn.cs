@@ -2,7 +2,8 @@
 //Author: Aneta Chalivopulosova (xchali00)
 //Description: script used to switch between 100% and 0% intensity 
 //              and switching between 3D and 2D on the display
-//Resources: official Unity Manual and Forum and Looking Glass Developer Docs
+//Resources: official Unity Manual and Forum (https://docs.unity3d.com/6000.0/Documentation/Manual/index.html) 
+//           and Looking Glass Developer Docs (https://lfdocs.lookingglassfactory.com/software/index)
 
 using UnityEngine;
 using UnityEngine.Rendering.Universal;

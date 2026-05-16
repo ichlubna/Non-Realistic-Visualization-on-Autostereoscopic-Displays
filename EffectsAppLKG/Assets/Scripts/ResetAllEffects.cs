@@ -2,7 +2,7 @@
 //Author: Aneta Chalivopulosova (xchali00)
 //Description: script used to reset the whole app 
 //              - switch to no effect and set all effect's intensity to 100%
-//Resources: official Unity Manual and Forum
+//Resources: official Unity Manual and Forum (https://docs.unity3d.com/6000.0/Documentation/Manual/index.html)
 
 using UnityEngine;
 using UnityEngine.Rendering.Universal;

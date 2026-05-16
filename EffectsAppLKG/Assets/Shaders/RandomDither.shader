@@ -3,7 +3,7 @@
 //Description: shader used for the random dithering effect
 //Resources: Bachelor's thesis by the same author - Non-realistic effects on Lume Pad 
 //          (https://github.com/AniChali/Non-realistic-effects-on-Lume-Pad),
-//          the code was rewritten from Cg to HLSL with the help from Google Gemini
+//          the code was rewritten from Cg to HLSL with the help from Google Gemini (https://gemini.google.com/)
 
 Shader "Hidden/RandomDither" {
 

@@ -1,7 +1,7 @@
 //File: Pixelated.shader
 //Author: Aneta Chalivopulosova (xchali00)
 //Description: shader used for the pixelated effect
-//Resources: Unity Manual + the shader uses the same logic as Ascii.shader for the grid
+//Resources: Unity Manual (https://docs.unity3d.com/6000.0/Documentation/Manual/index.html) + the shader uses the same logic as Ascii.shader for the grid
 
 Shader "Unlit/Pixelated"
 {

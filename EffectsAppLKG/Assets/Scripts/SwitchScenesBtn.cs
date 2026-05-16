@@ -1,7 +1,8 @@
 //File: SwitchScenesBtn.cs
 //Author: Aneta Chalivopulosova (xchali00)
 //Description: script used to switch scenes on user's click on TAB key
-//Resources: official Unity Manual and Forum and Looking Glass Developer Docs
+//Resources: official Unity Manual and Forum (https://docs.unity3d.com/6000.0/Documentation/Manual/index.html) 
+//           and Looking Glass Developer Docs (https://lfdocs.lookingglassfactory.com/software/index)
 
 using UnityEngine;
 

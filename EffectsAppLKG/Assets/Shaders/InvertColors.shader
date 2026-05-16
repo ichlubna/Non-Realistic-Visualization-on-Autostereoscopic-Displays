@@ -1,7 +1,7 @@
 //File: InvertColors.shader
 //Author: Aneta Chalivopulosova (xchali00)
 //Description: shader used to invert original colors in the scene
-//Resources: Unity Manual
+//Resources: Unity Manual (https://docs.unity3d.com/6000.0/Documentation/Manual/index.html)
 
 Shader "Unlit/InvertColors"
 {
