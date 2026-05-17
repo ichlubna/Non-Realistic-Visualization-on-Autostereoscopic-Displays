@@ -16,7 +16,7 @@ The thesis was presented at the Excel@FIT 2026 conference and received an award.
 
 - Download the project and open in Unity editor version 6. Select preferred desktop build option (macOS, Linux, or Windows) and build the app. 
 
-- Or download one of the available releases. 
+- Or download one of the available releases (macOS, Windows). 
 
 The app requires a Looking Glass display and is created for the Looking Glass Go display specifically (available at: https://lookingglassfactory.com/products-collection/looking-glass-go). To use this display with your computer, first install *Looking Glass Bridge*, information about the installation and use is available at the official Looking Glass website: https://lfdocs.lookingglassfactory.com/software/looking-glass-bridge. 
 
