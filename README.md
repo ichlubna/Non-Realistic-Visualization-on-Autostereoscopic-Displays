@@ -14,7 +14,7 @@ The thesis was presented at the Excel@FIT 2026 conference and received an award.
 
 ## How to set up the project
 
-- Download the project and open in Unity editor version 6. Select preferred desktop build option (macOS, Linux, or Windows) and build the app. 
+- Download the project and open in Unity editor version 6, open scene "EffectsScene" from *Scenes* folder. Select preferred desktop build option (macOS, Linux, or Windows) and build the app. 
 
 - Or download one of the available releases (macOS, Windows). 
 
