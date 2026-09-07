@@ -1,16 +1,14 @@
 # Non-realistic Visualization on Autostereoscopic Displays
 
-**Author:** Aneta Chalivopulosová
+This project was mainly developed by Aneta Chalivopulosová as a Master's Thesis at FIT VUT, Brno 2026. The project was used for a scientific experiment in a user study with additional measurements and minor implementational edits.
 
-**Master's Thesis at FIT VUT, Brno 2026**
-
-This master’s thesis researches non-realistic visualization methods for autostereoscopic displays. The thesis aims to evaluate how well non-realistic effects work on the Looking Glass Go display, focusing on the
+This project researches non-realistic visualization methods for autostereoscopic displays. The thesis aims to evaluate how well non-realistic effects work on the Looking Glass Go display, focusing on the
 functionality of the effects, preservation of 3D depth, quality, and user-friendliness. To do so, an app for the
 Looking Glass Go display is created in the Unity Engine containing the implementation of over twenty effects,
 two scenes and user interface. The effects include edge detection, different types of dithering and shading
 methods, thresholding, distortion, and effects mimicking, for example, old movies, or night vision.
 
-The thesis was presented at the Excel@FIT 2026 conference and received an award. Details can be found at the conference website: https://excel.fit.vutbr.cz/ and presented poster, abstract and video are placed in the folder named *Excel@FIT*.
+Preliminary results were presented at the Excel@FIT 2026 conference and received an award. Details can be found at the conference website: https://excel.fit.vutbr.cz/.
 
 ## How to set up the project
 
