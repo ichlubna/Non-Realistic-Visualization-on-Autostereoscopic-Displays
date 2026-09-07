@@ -41,8 +41,8 @@ public class RendererFeatureShuffler : MonoBehaviour
 
         var features = rendererData.rendererFeatures;
 
-        // Fisher-Yates shuffle starting from index 2 (keeping indices 0 & 1 fixed)
-        for (int i = 2; i < features.Count; i++)
+        // Fisher-Yates shuffle starting from index 1 (keeping no-effect as first)
+        for (int i = 1; i < features.Count; i++)
         {
             int randomIndex = UnityEngine.Random.Range(i, features.Count);
             var temp = features[i];
